@@ -1,0 +1,6 @@
+Nome = input("Digite seu nome completo: ")
+Rua = input("Digite o seu endereço: ")
+Número = input("Digite o seu Número: ")
+CEP = input("Digite o CEP: ")
+Cidade = input("Digite a sua cidade: ")
+print(f"ENVIAR PARA: {Nome} \nENDEREÇO: {Rua} | CEP: {CEP} \nCIDADE: {Cidade}")
